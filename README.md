@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **captainanuj2004@gmail.com**
 
-- 📄My Resume [https://drive.google.com/file/d/1TTlpawkyvIHJvJNK22_cPTtnHC2u5mb1/view?usp=sharing](https://drive.google.com/file/d/1TTlpawkyvIHJvJNK22_cPTtnHC2u5mb1/view?usp=sharing)
+- 📄 My Resume [https://tinyurl.com/mv8vv7ff](https://tinyurl.com/mv8vv7ff)
 
-- ⚡ Fun fact **Tried to stay consistent with DSA... somehow always ended up in arrays again😂**
+- ⚡Fun fact **Tried to stay consistent with DSA... somehow always ended up in arrays again😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
