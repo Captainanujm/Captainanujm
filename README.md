@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainanujm&label=Profile%20views&color=0e75b6&style=flat" alt="captainanujm" /> </p>
 
-- 🌱 I’m currently learning **Next.js,TypeScript and AI**
+- 🌱 I’m currently learning **Next.js with TypeScript, DSA and AI**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects AI integrated projects**
 
