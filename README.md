@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **captainanuj2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TTlpawkyvIHJvJNK22_cPTtnHC2u5mb1/view?usp=sharing](https://drive.google.com/file/d/1TTlpawkyvIHJvJNK22_cPTtnHC2u5mb1/view?usp=sharing)
+- 📄My Resume [https://drive.google.com/file/d/1TTlpawkyvIHJvJNK22_cPTtnHC2u5mb1/view?usp=sharing](https://drive.google.com/file/d/1TTlpawkyvIHJvJNK22_cPTtnHC2u5mb1/view?usp=sharing)
 
 - ⚡ Fun fact **Tried to stay consistent with DSA... somehow always ended up in arrays again😂**
 
