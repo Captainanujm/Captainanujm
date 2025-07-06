@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js with TypeScript, DSA and AI**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects AI integrated projects**
+- 👯 I’m looking to collaborate on **Full Stack AI integrated projects**
 
 - 💬 Ask me about **Web Dev and DSA(Intermediate-level)**
 
