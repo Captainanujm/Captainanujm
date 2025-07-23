@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **captainanuj2004@gmail.com**
 
-- 📄 My Resume [https://tinyurl.com/mv8vv7ff](https://tinyurl.com/mv8vv7ff)
+- 📄 My Resume [Resume Link](https://tinyurl.com/yas3u3jr)
 
 - ⚡Fun fact **Tried to stay consistent with DSA... somehow always ended up in arrays again😂**
 
