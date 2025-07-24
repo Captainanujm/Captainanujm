@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack AI integrated projects**
 
-- 💬 Ask me about **Web Dev and DSA(Intermediate-level)**
+- 💬 Ask me about **Web Dev and DSA (Intermediate-level)**
 
 - 📫 How to reach me **captainanuj2004@gmail.com**
 
