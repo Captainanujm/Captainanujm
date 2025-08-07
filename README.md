@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainanujm&label=Profile%20views&color=0e75b6&style=flat" alt="captainanujm" /> </p>
 
-- 🌱 I’m currently learning **Next.js with TypeScript, DSA and AI**
+- 🌱 I’m currently learning **Next.js,TypeScript and AI**
 
-- 👯 I’m looking to collaborate on **Full Stack AI integrated projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects AI integrated projects**
 
-- 💬 Ask me about **Web Dev and DSA (Intermediate-level)**
+- 💬 Ask me about **Web Dev and DSA(Intermediate-level)**
 
 - 📫 How to reach me **captainanuj2004@gmail.com**
-
-- 📄 My Resume [Resume Link](https://tinyurl.com/ytsnu6jc)
 
 - ⚡Fun fact **Tried to stay consistent with DSA... somehow always ended up in arrays again😂**
 
@@ -19,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/anujmis12421258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anujmis12421258" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anuj-mishra-85029724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-mishra-85029724b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25750776/anuj-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25750776/anuj-mishra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_captain_anuj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_captain_anuj_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/captainajenu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="captainajenu" height="30" width="40" /></a>
 </p>
