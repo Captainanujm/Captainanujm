@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainanujm&label=Profile%20views&color=0e75b6&style=flat" alt="captainanujm" /> </p>
 
-- 🌱 I’m currently learning **Next.js,TypeScript and AI**
+- 🌱 I’m currently wokring on **.NET 10,Angular 21 and AI**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects AI integrated projects**
+- 👯 I’m looking to collaborate on **Full Stack AI integrated projects**
 
 - 💬 Ask me about **Web Dev and DSA(Intermediate-level)**
 
